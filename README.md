@@ -1,6 +1,6 @@
 # Workforce Management Platform
 
-A modern workforce management platform built with React, TypeScript, Zustand, and Tailwind CSS.
+A modern workforce management platform built with React, TypeScript, Zustand, and Tailwind CSS. 
 
 The application provides dedicated admin and employee dashboards for managing employees, assigning tasks, tracking progress, and organizing workforce operations through a scalable and responsive interface.
 
