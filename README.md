@@ -24,5 +24,6 @@ The application provides dedicated admin and employee dashboards for managing em
 - Vite
 - Tailwind CSS
 - Zustand
-- React Router
+- React Router 
 - Framer Motion﻿# Advanced-Workforce-Management-System
+
